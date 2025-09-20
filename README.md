@@ -22,7 +22,7 @@ The machine follows a two-step payment authorization flow. The states and transi
 
 ### State Machine Diagram
 
-The diagram below visually represents the entire flow of states and events described above.
+The diagram below visually represents the entire flow of states and events described below.
 
 <img src="https://github.com/jorgepiconjr/Spring-Statemachine/blob/main/src/main/resources/static/img.png?raw=true" alt="Payment State Machine Diagram" width="500"/>
 
