@@ -1,4 +1,4 @@
-# Payment State Machine with Spring
+# Payment State Machine
 
 This project is a practical example of implementing a payment processing state machine using **Spring Boot** and **Spring Statemachine**. It demonstrates how to model the lifecycle of a payment—from creation through pre-authorization and final capture—in a clean and state-driven way.
 
